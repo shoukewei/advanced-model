@@ -4,6 +4,9 @@
 
 This repository accompanies the book *Advanced Data Modeling and Forecasting with Python*, providing a practical and system-oriented approach to advanced machine learning, forecasting, representation learning, and production-ready data science workflows.
 
+<img width="714" height="1024" alt="advanced-model-front-cover" src="https://github.com/user-attachments/assets/29f58136-f2c8-4442-a55c-47111c9835cf" />
+
+
 Building upon foundational modeling techniques, this repository focuses on real-world challenges such as temporal data, unsupervised learning, hybrid modeling, deployment, monitoring, and scalable modeling systems.
 
 Rather than treating methods in isolation, the repository emphasizes how advanced techniques can be integrated into coherent, end-to-end data science solutions.
