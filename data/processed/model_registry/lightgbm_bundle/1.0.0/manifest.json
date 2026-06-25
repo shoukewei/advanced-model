@@ -1,0 +1,9 @@
+{
+  "name": "lightgbm_bundle",
+  "version": "1.0.0",
+  "saved_at": "2026-04-29T15:08:44.259649",
+  "artifact": "model.joblib",
+  "roc_auc_test": 0.9988,
+  "n_estimators": 200,
+  "framework": "lightgbm"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "logistic_pipeline",
+  "version": "1.0.0",
+  "saved_at": "2026-04-29T15:08:44.128500",
+  "artifact": "model.joblib",
+  "roc_auc_test": 0.9971,
+  "n_features": 30,
+  "framework": "sklearn"
+}
